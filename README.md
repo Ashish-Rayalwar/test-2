@@ -6,8 +6,6 @@ A real-time chat application built with React and Node.js.
 
 The Chat Application is a web-based chat platform that allows users to communicate in real-time. It provides a user-friendly interface and supports multiple users chatting simultaneously.
 
-![Chat Application Screenshot](/screenshot/1.png)
-
 ## Features
 
 - Real-time messaging with WebSocket
